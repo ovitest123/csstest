@@ -1,0 +1,21 @@
+fix bulma accordion css
+
+reference css component versions - uikit v3 - in popover when hovering logo
+
+have a mode where the user can select a framework, select a component, and construct that component - width and so on
+can then build multiple components and compare them, can add icons to buttons etc - will have to download specific scripts for this
+
+try to use css asset files so you can lazy load them
+statistics should include size and github popularity
+think about having loading placeholders when the images are loading up for cards
+
+when an alert close button doesn't work - have a toaster message appear to say that this functionality is not provided out of the box
+
+https://startbootstrap.com/previews/simple-sidebar/ - phone feature
+
+make the panels order switchable via options popover or drag and drop
+https://www.youtube.com/watch?v=RA7sO_9V3vw&ab_channel=ProgramWithErik
+
+https://vuetifyjs.com/en/
+https://lusaxweb.github.io/vuesax/development/
+https://mdbootstrap.com/docs/jquery/design-blocks/
